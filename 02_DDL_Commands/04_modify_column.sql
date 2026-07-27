@@ -1,0 +1,5 @@
+ALTER TABLE employee
+MODIFY dob DATE NOT NULL;
+
+ALTER TABLE employee
+MODIFY emp_name VARCHAR(50) NOT NULL;

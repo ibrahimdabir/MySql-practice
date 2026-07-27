@@ -1,0 +1,9 @@
+CREATE DATABASE IF NOT EXISTS company_db;
+
+USE company_db;
+
+SHOW DATABASES;
+
+SHOW TABLES;
+
+DESCRIBE employee;

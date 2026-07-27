@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Environment / secrets
+.env
+*.env.local
+
+# Local database dumps / backups
+*.sql.bak
+*.dump
+dump.sql
+
+# Logs
+*.log
